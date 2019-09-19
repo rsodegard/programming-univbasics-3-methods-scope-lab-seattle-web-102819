@@ -14,6 +14,6 @@ def link
 end 
 
 def my_phrase(phrase)
-  puts argument
+  puts phrase 
   return
 end 
